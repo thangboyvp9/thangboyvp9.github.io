@@ -1,0 +1,2 @@
+NV0001#Nguyen Van Thang#Nam#9/24/1983 12:00:00 AM#Quan ly phong#Luong Tai - Van Lam - Hung Yen#0963105678#097456345
+NV0002#Nguyen Thi Mai Huong#Nu#7/22/1980 12:00:00 AM#Quan ly phong#Nhan Hoa - My Hao - Hung Yen#0392469644#0987654567

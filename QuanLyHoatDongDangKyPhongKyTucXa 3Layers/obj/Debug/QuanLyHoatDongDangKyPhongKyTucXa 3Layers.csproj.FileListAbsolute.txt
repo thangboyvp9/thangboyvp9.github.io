@@ -1,0 +1,7 @@
+D:\BÁO CÁO ĐỒ ÁN 1\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\bin\Debug\QuanLyHoatDongDangKyPhongKyTucXa 3Layers.exe.config
+D:\BÁO CÁO ĐỒ ÁN 1\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\bin\Debug\QuanLyHoatDongDangKyPhongKyTucXa 3Layers.exe
+D:\BÁO CÁO ĐỒ ÁN 1\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\bin\Debug\QuanLyHoatDongDangKyPhongKyTucXa 3Layers.pdb
+D:\BÁO CÁO ĐỒ ÁN 1\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\obj\Debug\QuanLyHoatDongDangKyPhongKyTucXa 3Layers.csprojAssemblyReference.cache
+D:\BÁO CÁO ĐỒ ÁN 1\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\obj\Debug\QuanLyHoatDongDangKyPhongKyTucXa 3Layers.csproj.CoreCompileInputs.cache
+D:\BÁO CÁO ĐỒ ÁN 1\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\obj\Debug\QuanLyHoatDongDangKyPhongKyTucXa 3Layers.exe
+D:\BÁO CÁO ĐỒ ÁN 1\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\obj\Debug\QuanLyHoatDongDangKyPhongKyTucXa 3Layers.pdb

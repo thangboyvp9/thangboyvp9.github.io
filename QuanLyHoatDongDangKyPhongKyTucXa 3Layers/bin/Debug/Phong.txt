@@ -1,0 +1,5 @@
+P103#NV0002#103#1# Giuong,Tu,Ban,Quat,Bong den,Wifi#Thieu sinh vien#Nu#8#7
+P102#NV0001#102#1#Giuong,Tu,Ban,Quat,Bong den,Wifi#Tot#Nam#10#10
+P512#NV0003#512#5#Giuong,Tu,Ban,Quat,Bong den,Wifi#Tot#Nam#8#8
+P302#NV0004#302#3#Giuong,Tu,Ban,Quat,Bong den,Wifi#Thieu sinh vien#Nam#10#8
+P415#NV0001#415#4# Giuong,Tu,Ban,Quat,Bong den,Wifi#Thieu sinh vien#Nu#8#7
