@@ -5,3 +5,5 @@ D:\BÁO CÁO ĐỒ ÁN 1\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\QuanLyHoatDong
 D:\BÁO CÁO ĐỒ ÁN 1\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\obj\Debug\QuanLyHoatDongDangKyPhongKyTucXa 3Layers.csproj.CoreCompileInputs.cache
 D:\BÁO CÁO ĐỒ ÁN 1\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\obj\Debug\QuanLyHoatDongDangKyPhongKyTucXa 3Layers.exe
 D:\BÁO CÁO ĐỒ ÁN 1\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\obj\Debug\QuanLyHoatDongDangKyPhongKyTucXa 3Layers.pdb
+C:\Users\thang\OneDrive\Máy tính\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\obj\Debug\QuanLyHoatDongDangKyPhongKyTucXa 3Layers.exe
+C:\Users\thang\OneDrive\Máy tính\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\QuanLyHoatDongDangKyPhongKyTucXa 3Layers\obj\Debug\QuanLyHoatDongDangKyPhongKyTucXa 3Layers.pdb

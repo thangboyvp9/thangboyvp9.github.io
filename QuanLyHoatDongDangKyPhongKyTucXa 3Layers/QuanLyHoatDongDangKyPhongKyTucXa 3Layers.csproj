@@ -44,14 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Business\DangKyPhongBus.cs" />
-    <Compile Include="Business\QuanLyHopDongBus.cs" />
-    <Compile Include="Business\QuanLyNhanVienBus.cs" />
     <Compile Include="Business\QuanLyPhongBus.cs" />
     <Compile Include="Business\QuanLySinhVienBus.cs" />
-    <Compile Include="DataAccess\HopDong.cs" />
-    <Compile Include="DataAccess\HopDongDAO.cs" />
-    <Compile Include="DataAccess\NhanVien.cs" />
-    <Compile Include="DataAccess\NhanVienDAO.cs" />
     <Compile Include="DataAccess\Phong.cs" />
     <Compile Include="DataAccess\PhongDAO.cs" />
     <Compile Include="DataAccess\Phong_SinhVienDAO.cs" />
@@ -61,8 +55,6 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="View\DangKyPhongView.cs" />
-    <Compile Include="View\QuanLyHopDongView.cs" />
-    <Compile Include="View\QuanLyNhanVienView.cs" />
     <Compile Include="View\QuanLyPhongView.cs" />
     <Compile Include="View\QuanLySinhVienView.cs" />
   </ItemGroup>
